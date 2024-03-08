@@ -1,0 +1,9 @@
+[submodule "pgstac"]
+	path = pgstac
+	url = https://github.com/dylanlee/pgstac
+[submodule "stac-fastapi"]
+	path = stac-fastapi
+	url = https://github.com/dylanlee/stac-fastapi
+[submodule "stac-fastapi-pgstac"]
+	path = stac-fastapi-pgstac
+	url = https://github.com/dylanlee/stac-fastapi-pgstac
